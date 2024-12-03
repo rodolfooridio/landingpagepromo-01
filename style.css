@@ -663,8 +663,8 @@ footer .redes-sociais .menu-sociais li{
 .banner-hero {
     background-image: url(./img/bg-efect.png);
     background-repeat: no-repeat;
-    background-position: center;
-    background: linear-gradient(180deg, #FB2D2D, #9E0000);
+    background-position: top;
+    background-color:#FB2D2D;
     color: #dde1e5;
 }
 .banner-hero img {
