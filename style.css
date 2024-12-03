@@ -288,7 +288,7 @@ h2 {
     font-size: 3.2rem; /* Tamanho do h2 */
     line-height: 120%;
     margin-bottom: 2.4rem;
-    font-weight: 550;
+    font-weight: 700;
 }
 h3 {
     font-size: 2.4rem; /* Tamanho do h3 */
@@ -713,7 +713,7 @@ footer .redes-sociais .menu-sociais li{
 }
 
 .produtos {
-    background-color: #ffd001;
+    background-color: #fff000;
     text-align: center;
 }
 .produtos .produtos-list {
@@ -728,15 +728,14 @@ footer .redes-sociais .menu-sociais li{
     border-radius: 1.6rem;
 }
 .produtos .como-participar .como-participar-item {
-    padding: 3.2rem;
-    display: block;
-    width: 38.4rem;
-    height: auto;
-    max-width: 100%;
+    padding: 3.2rem 2.4rem;
     background-color: #2a04ff;
     border-radius: 1.6rem;
     color: #fff;
     margin-inline: auto;
+    justify-content: center;
+    align-content: space-between;
+    align-items: center;
 }
 .produtos .como-participar .como-participar-item img{
     margin-inline: auto;
