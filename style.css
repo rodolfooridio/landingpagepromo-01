@@ -600,6 +600,9 @@ footer .redes-sociais .menu-sociais li{
 .header-topo .container .row {
     margin-block: 0;
 }
+.header-topo .menu-container{
+    padding-top: 2.4rem;
+}
 .menu-container {
     display: flex;
     align-items: center;
@@ -673,7 +676,13 @@ footer .redes-sociais .menu-sociais li{
 .banner-hero h1, h2 {
     text-align: center;
 }
-
+.banner-hero .destaque{
+    background-color: #ffd001;
+    color: #ff0000;
+    border-radius: .8rem;
+    padding: .8rem;
+    font-weight: 900;
+}
 .premios {
     background-color: #000;
     color: #fff;
