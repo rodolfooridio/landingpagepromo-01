@@ -682,7 +682,9 @@ footer .redes-sociais .menu-sociais li{
     justify-content: center;
 }
 .premios .premio-img {
-    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 38.4rem;
     height: 40rem;
     max-width: 100%;
